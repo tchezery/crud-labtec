@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://tchezery:labtec@cluster1.96jqx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+JWT_SECRET=5c0c0a6cbc1de2b067a268c1e332950b55c8ded60c100737a605720703f6557e
